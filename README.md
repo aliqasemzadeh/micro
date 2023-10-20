@@ -3,7 +3,7 @@
 We have two folder:
 
 ## class
-This folder cotain microproccessor class content.
+This folder contain microprocessor class content.
 
 ## workshop
-This folder cotain workshop content.
+This folder contain workshop content.
