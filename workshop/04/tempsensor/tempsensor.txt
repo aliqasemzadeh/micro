@@ -1,0 +1,9 @@
+void setup() {
+  Serial.begin(9600);
+}
+void loop() {
+  int sensorValue = analogRead(A0);
+  float temp = sensorValue * (5.0 / 10);
+  Serial.println(temp);
+  delay(100);
+}
