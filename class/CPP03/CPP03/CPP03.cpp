@@ -10,6 +10,6 @@ int main()
     int r;
     cout << "Please enter radius:";
     cin >> r;
-    cout << "Area:" << 2 * PI * r;
-    cout << "S:" << PI * pow(r, 2);
+    cout << "S:" << 2 * PI * r;
+    cout << "A:" << PI * pow(r, 2);
 }
