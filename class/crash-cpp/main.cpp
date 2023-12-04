@@ -21,7 +21,7 @@ int main()
     // نمایش دمای محاسبه شده
     cout << "Temp:" << temp << endl;
     // نمایش دمای واقعی
-    cout << "Temp:" << temp + 5 << endl;
+    cout << "Real Temp:" << temp + 5 << endl;
     // شرط برای نمایش هشدار بالای 50 درجه
     if(temp >= 50) {
         cout << "High Temp";
